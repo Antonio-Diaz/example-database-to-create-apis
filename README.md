@@ -1,5 +1,5 @@
 # example-database-to-create-apis
-Repository that contains examples for several type of database.
+Repository containing examples for various types of databases.
 
 - ecommerce
 - user authenticantion system
